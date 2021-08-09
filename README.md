@@ -1,7 +1,10 @@
-# Getting Started with Create React App
+# Crypto Tracker App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a cryptocurrency price tracker app I've built using ReactJS, Axios, Bootstrap, and the CoinGecko API - https://www.coingecko.com/en/api.
 
+The goal of building this was to get my hands on using and interacting with REST API's more.
+
+Live site - https://crypto-pricer.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
